@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415783699156",
+    "project_id": "dartt-step",
+    "storage_bucket": "dartt-step.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415783699156:android:180b64525d901d98b13141",
+        "android_client_info": {
+          "package_name": "com.example.dartt_tot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAAEupyq8G_33v28piJYah_JN7vCjZFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
